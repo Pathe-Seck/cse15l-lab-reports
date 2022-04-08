@@ -28,3 +28,8 @@
 [B.I.B.L.E](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP?si=RC5ese3xQPOANd7xDPrVFg)
 
 ![Image](https://images.genius.com/f52d2713cfe3202211a64949ceb4d928.1000x1000x1.png)
+
+
+# Check out my lab screenshot of this webpage!
+
+[Lab Report 1](https://pathe-seck.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
