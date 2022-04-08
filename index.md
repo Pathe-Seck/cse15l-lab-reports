@@ -32,4 +32,4 @@
 
 # Check out my lab screenshot of this webpage!
 
-[Lab Report1](https://pathe-seck.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+[Lab Report 1](https://pathe-seck.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
