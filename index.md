@@ -6,4 +6,4 @@
 
 [link](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW?si=ScnODGJySfy4NPpD4QieKg)
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.complex.com%2Fmusic%2Fvince-staples-ramona-park-broke-my-heart-album-stream&psig=AOvVaw0Jbzj-wAFBnWIZfFmw5zxa&ust=1649533966219000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPizhYOfhfcCFQAAAAAdAAAAABAD)
+![Image](https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_90,w_1400/fl_lossy,pg_1/ckvpko0jfxmddvqcc35x/vince-staples-ramona-park-broke-my-heart-cover)
