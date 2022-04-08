@@ -16,7 +16,7 @@
 ![Image](https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_90,w_1400/fl_lossy,pg_1/ckvpko0jfxmddvqcc35x/vince-staples-ramona-park-broke-my-heart-cover)
 
 
-## *FIVIO FOREIGN DROPPED BIBLE TODAY CLICK THE LINK BELOW TO LISTEN!
+## FIVIO FOREIGN DROPPED BIBLE TODAY CLICK THE LINK BELOW TO LISTEN!
 
 > "An absolute vibe" - random critic
 
