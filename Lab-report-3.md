@@ -1,5 +1,5 @@
 **I was struggling heavily with this lab, but I wanted to turn in
-all if the stuff I was able to do**
+all if the stuff I was able to do. I apologize for the incomplete work**
 
 # Streamlining ssh Congiguration
 Streamlining ssh is pretty simple all you need is a config file with 
