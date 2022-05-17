@@ -37,4 +37,4 @@
 
 [lab Report 2](https://pathe-seck.github.io/cse15l-lab-reports/Lab-report-2.html)
 
-[lab Report 3](https://pathe-seck.github.io/cse15l-lab-reports/Lab-report-3.html)
+[lab Report 3](https://pathe-seck.github.io/cse15l-lab-reports/lab-report-3.html)
