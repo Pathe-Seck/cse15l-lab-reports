@@ -36,3 +36,5 @@
 [lab Report 1](lab-report-1-week-2.html)
 
 [lab Report 2](https://pathe-seck.github.io/cse15l-lab-reports/Lab-report-2.html)
+
+[lab Report 3](https://pathe-seck.github.io/cse15l-lab-reports/Lab-report-3.html)
