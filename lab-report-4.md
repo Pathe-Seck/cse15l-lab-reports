@@ -9,9 +9,9 @@ Expected output from CommonMark:
 
 <img width="154" alt="Screen Shot 2022-05-30 at 9 26 02 PM" src="https://user-images.githubusercontent.com/102937267/171093046-32d85114-f1ee-4cbb-89e3-6daaf39b095e.png">
 
-<img width="548" alt="Screen Shot 2022-05-30 at 9 34 56 PM" src="https://user-images.githubusercontent.com/102937267/171093739-bce8ae6e-9a3c-4c61-9d25-3da92abd5957.png">
-
 Expected output:['google.com, google.com, ucsd.edu]
+
+<img width="548" alt="Screen Shot 2022-05-30 at 9 34 56 PM" src="https://user-images.githubusercontent.com/102937267/171093739-bce8ae6e-9a3c-4c61-9d25-3da92abd5957.png">
 
 # Snippet 2
 
@@ -19,9 +19,9 @@ Expected output from CommonMark
 
 <img width="209" alt="Screen Shot 2022-05-30 at 9 26 57 PM" src="https://user-images.githubusercontent.com/102937267/171093191-82fe78e2-fafd-471b-9f2f-0cdd56cefbb5.png">
 
-<img width="526" alt="Screen Shot 2022-05-30 at 9 35 28 PM" src="https://user-images.githubusercontent.com/102937267/171093806-3d16d9cb-6102-4080-b9a7-528fc87aea74.png">
-
 Expected output: [a.com, a.com(()), example.com]
+
+<img width="526" alt="Screen Shot 2022-05-30 at 9 35 28 PM" src="https://user-images.githubusercontent.com/102937267/171093806-3d16d9cb-6102-4080-b9a7-528fc87aea74.png">
 
 # Snippet 3
 
@@ -29,9 +29,9 @@ Expected output from CommonMark
 
 <img width="564" alt="Screen Shot 2022-05-30 at 9 27 57 PM" src="https://user-images.githubusercontent.com/102937267/171093293-0d1f4586-7a00-4fd9-b189-76da21a9651c.png">
 
-<img width="645" alt="Screen Shot 2022-05-30 at 9 35 58 PM" src="https://user-images.githubusercontent.com/102937267/171093845-637c5898-05b4-4881-a88a-eafabee4506b.png">
-
 Expected output: [https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule]
+
+<img width="645" alt="Screen Shot 2022-05-30 at 9 35 58 PM" src="https://user-images.githubusercontent.com/102937267/171093845-637c5898-05b4-4881-a88a-eafabee4506b.png">
 
 # Output for my MarkdownParse implementation:
 
