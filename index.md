@@ -41,5 +41,5 @@
 
 [Lab Report 4](https://pathe-seck.github.io/cse15l-lab-reports/lab-report-4.html)
 
-[Lab Report 5](https://pathe-seck.github.io/cse15l-lab-repors/lab-report-5.html)
+[Lab Report 5](https://pathe-seck.github.io/cse15l-lab-reports/lab-report-5.html)
 
